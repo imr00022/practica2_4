@@ -14,7 +14,7 @@ Dirección web en docker hub:
 
 
 Dirección temporal del contenedor desplegado en google cloud: 
-http://34.66.23.246:8080/index.php
+http://	35.224.78.12:8080/index.php
 
 Referencias consultadas:
 Security in Django, SQL injection protection, Disponible en: https://docs.djangoproject.com/en/3.1/topics/security/ [Acceso: 25/10/2020]
